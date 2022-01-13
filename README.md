@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xc3po
-- 👀 I’m interested in all things web and hacking
+- 👀 I’m interested in all things web, bug bounty, and hacking!
 - 🌱 I’m currently learning python, php, JavaScript, CCNA, Sec+ and more!
 - 💞️ I’m looking to collaborate on anything! New to the game and eager to learn!
 - 📫 Reach me on Twitter!
